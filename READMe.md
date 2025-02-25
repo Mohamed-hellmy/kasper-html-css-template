@@ -2,8 +2,6 @@
 
 A fully responsive HTML & CSS template for modern websites.
 
-![Preview](preview.png)
-
 ## 📌 Features
 ✔️ Fully responsive design  
 ✔️ Clean and modern UI  
