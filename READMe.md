@@ -19,6 +19,11 @@ A fully responsive HTML & CSS template for modern websites.
 ## 📸 Screenshot
 ![Project Preview](preview.png)
 
+## ✨ Author  
+👤 **Mohamed Hellmy**  
+🔗 [GitHub Profile](https://github.com/Mohamed-hellmy)  
+📧 [Email Me](mailto:mohamedhellmy1010@gmail.com)
+
 ## 📥 Installation
 Clone the repository and open `index.html` in your browser:
 
